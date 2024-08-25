@@ -16,7 +16,6 @@ export default defineBackground(() => {
       messageType: MessageType.clickExtIcon,
     });
   });
-
   // background.js
   browser.runtime.onMessage.addListener(
     async (

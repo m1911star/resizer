@@ -1,8 +1,8 @@
 {
-  "name": "wxt-react-shadcn-tailwindcss-chrome-extension",
-  "description": "manifest.json description",
+  "name": "Window Cross Resizer",
+  "description": "Sync size of multiple browser windows",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
